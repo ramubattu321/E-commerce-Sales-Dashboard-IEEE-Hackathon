@@ -1,8 +1,9 @@
 # E-commerce Sales Dashboard (IEEE Hackathon )
 
 ## Dashboard Preview
+![Dashboard](dashboard.png)
 
-![Dashboard](dashboard .png)
+
 
 ---
 
