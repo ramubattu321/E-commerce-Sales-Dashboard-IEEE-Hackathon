@@ -1,6 +1,7 @@
 # E-commerce Sales Dashboard — IEEE Hackathon 2023
 
->  Built for **IEEE Hackathon 2023** — Interactive sales intelligence dashboard analyzing e-commerce performance across regions, categories, and time periods using Microsoft Excel
+
+>  Built for **IEEE Hackathon 2023** — Interactive sales intelligence dashboard analyzing historical e-commerce data (2015) across regions, categories, and time periods using Microsoft Excel
 
 ---
 
@@ -24,13 +25,16 @@ An interactive Excel dashboard built to analyze e-commerce business performance 
 | Challenge | Build a data-driven business intelligence solution |
 | Tool Used | Microsoft Excel (Pivot Tables, Charts, Slicers) |
 | Deliverables | Interactive dashboard + full analysis report |
+| Dataset Period | 2015 (historical e-commerce sales data) |
 | Full Report | `Report.pdf` |
 
 ---
 
 ## Dataset
 
- **File:** `Data.xlsx`
+ **File:** `Data.xlsx` · **Data Period:** 2015
+
+> **Note:** This is a historical e-commerce dataset (2015) provided as part of the IEEE Hackathon 2023 challenge. The data covers global sales transactions — the dashboard was designed and built in 2023 using this dataset.
 
 The dataset contains global e-commerce transaction records with the following key fields:
 
@@ -112,7 +116,7 @@ The dataset contains global e-commerce transaction records with the following ke
 └── README.md          # Project documentation
 ```
 
-> 📝 **Note:** Rename `dashboard .png` → `dashboard.png` (remove the space) for consistent image rendering across all platforms.
+>  **Note:** Rename `dashboard .png` → `dashboard.png` (remove the space) for consistent image rendering across all platforms.
 
 ---
 
